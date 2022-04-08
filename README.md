@@ -1,6 +1,6 @@
 # Hi there, I'm Kamil 👋
 
-Passionate about Computer Science with a particular focus on Unix and Cyber Security.
+Passionate about Computer Science with a particular focus on Unix software and Cyber Security.
 
 - 🔭 I’m currently working on Attiny85 projects
 - 🌱 I’m currently learning BrainFuck 😂
